@@ -1,0 +1,4 @@
+Calculating the returns on a long-short momentum portfolio using monthly data
+from 2004 to 2008. 
+crsp20042008.cvs has the full data, while testData.csv only contains a small sample
+of the data.
